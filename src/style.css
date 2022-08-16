@@ -1,0 +1,21 @@
+.logo {
+  width: 40px;
+  display: inline-block;
+  width: 40px;
+}
+
+.header {
+  background-color: #f2f2f2;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header,
+.main-content,
+.footer {
+  padding: 20px;
+}
